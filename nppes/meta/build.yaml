@@ -1,0 +1,10 @@
+build: {}
+dependencies: {}
+sources:
+    nppes:
+        description: Full Replacement Monthly NPI File
+        file: null
+        filetype: csv
+        time: 2008/2015
+        url: http://download.cms.gov/nppes/NPPES_Data_Dissemination_June_2015.zip
+views: {}

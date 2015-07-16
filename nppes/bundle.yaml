@@ -1,0 +1,60 @@
+about:
+    access: example
+    footnote: null
+    grain: null
+    groups: []
+    license: public
+    processed: null
+    rights: null
+    source: null
+    space: null
+    subject: null
+    summary: Convert the Full replacement file
+    tags: []
+    time: null
+    title: National Plan and Provider Enumeration System (NPPES)
+contact_bundle:
+    creator:
+        email: roman.suprotkin@developex.org
+        name: Roman Suprotkin
+        org: ''
+        url: ''
+    maintainer: {}
+contact_source:
+    creator:
+        org: Centers for Medicare & Medicaid Services
+        url: http://cms.gov
+    maintainer: {}
+external_documentation:
+    dataset:
+        description: Main webpage for the dataset.
+        source: null
+        title: NPI Files
+        url: http://download.cms.gov/nppes/NPI_Files.html
+    documentation:
+        description: The primary documentation file
+        source: null
+        title: Main Documentation
+        url: http://example.com
+    download:
+        description: Web page that links to the source files.
+        source: null
+        title: Download Page
+        url: http://example.com
+identity:
+    bspace: null
+    btime: null
+    dataset: nppes
+    id: do9o1DbY44
+    revision: 1
+    source: cms.gov
+    subset: null
+    type: null
+    variation: null
+    version: 0.0.1
+names:
+    fqname: cms.gov-nppes-0.0.1~do9o1DbY44001
+    name: cms.gov-nppes
+    vid: do9o1DbY44001
+    vname: cms.gov-nppes-0.0.1
+process: {}
