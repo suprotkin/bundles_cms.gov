@@ -1,5 +1,5 @@
 about:
-    access: example
+    access: restricted
     footnote: null
     grain: null
     groups: []
@@ -31,16 +31,6 @@ external_documentation:
         source: null
         title: NPI Files
         url: http://download.cms.gov/nppes/NPI_Files.html
-    documentation:
-        description: The primary documentation file
-        source: null
-        title: Main Documentation
-        url: http://example.com
-    download:
-        description: Web page that links to the source files.
-        source: null
-        title: Download Page
-        url: http://example.com
 identity:
     bspace: null
     btime: null
